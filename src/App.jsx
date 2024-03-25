@@ -1,6 +1,6 @@
 
 import Home from "./Home";
-import Blog from "./Pages/Blog";
+import Blogs from "./Pages/Blogs";
 import Bookmarks from "./Pages/Bookmarks";
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <Home></Home>
-      <Blog></Blog>
+      <Blogs></Blogs>
       <Bookmarks></Bookmarks>
 
     </div>
