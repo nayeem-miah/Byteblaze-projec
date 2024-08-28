@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "hoovercj.vscode-power-mode"
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
     ]
 }
